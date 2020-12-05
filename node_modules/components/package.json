@@ -1,0 +1,5 @@
+{
+  "name": "components",
+  "sideEffects": false,
+  "module": "es/index.js"
+}
